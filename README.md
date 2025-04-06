@@ -34,6 +34,6 @@ In the competitive e-commerce world, personalized product recommendations are ke
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/YourUsername/smart-shopping-ai.git
-cd smart-shopping-ai
+git clone https://github.com/NamelessBoy123/Hackathon.git
+cd Hackathon
 # Hackathon
